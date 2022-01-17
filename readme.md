@@ -5,7 +5,7 @@ Sole
 
 ![](/assets/screenshot.png)
 
-That's it! That's the "Sole" purpose of it.
+That's it! That's the "Sole" purpose of this extension.
 
 You can jot down your most important *reminder*, *an idea*, *a phone number*, *an inspirational quote*, and so on.
 
