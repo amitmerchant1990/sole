@@ -1,0 +1,35 @@
+.main-container {
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.info {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.content {
+    width: 60%;
+}
+
+.content input {
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 2rem;
+    background-color: #e6feca;
+}
+
+#oneTextContainer {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
