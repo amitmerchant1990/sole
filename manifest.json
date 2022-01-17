@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 3,
   "description": "Jot down one and only one thing at a time!",
-  "homepage_url": "http://amitmerchant.com",
+  "homepage_url": "https://github.com/amitmerchant1990/sole",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
