@@ -9,4 +9,4 @@ That's it! That's the "Sole" purpose of this extension.
 
 With Sole, you can jot down your most important *reminder*, *an idea*, *a phone number*, *an inspirational quote*, and so on.
 
-Of course, Sole also supports [Markdown](https://daringfireball.net/projects/markdown/). So, you can also jot down things in your favorite markup language easily.
+Of course, Sole also supports [Markdown](https://daringfireball.net/projects/markdown/). So, you can also jot down things in your favorite markup language easily if that is what you prefer.
