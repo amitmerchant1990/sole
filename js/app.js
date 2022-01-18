@@ -28,7 +28,16 @@ jQuery(document).ready(function ($) {
         }
     });
 
-    $('#edit').click(function () {
+    $(document).keydown(function (e) {
+        if (e.ctrlKey && e.shiftKey && e.key === 'K') {
+            $('#oneTextContainer').hide();
+            $('#oneText').show().focus();
+            $('#edit').hide();
+        }
+    });
+
+    $('#edit').click(function (e) {
+        e.preventDefault();
         $('#oneTextContainer').hide();
         $('#oneText').show().focus();
         $(this).hide();
