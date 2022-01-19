@@ -1,8 +1,9 @@
 {
-  "name": "Sole",
-  "version": "0.0.2",
-  "manifest_version": 3,
+  "name": "Sole — Jot down only one thing at a time",
   "description": "Jot down one and only one thing at a time!",
+  "offline_enabled": true,
+  "version": "0.0.3",
+  "manifest_version": 3,
   "homepage_url": "https://github.com/amitmerchant1990/sole",
   "icons": {
     "16": "icons/icon16.png",
