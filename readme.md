@@ -1,7 +1,9 @@
 Sole
 ===
 
-> A Chrome extension that lets you do only one thing. i.e. To jot down one thing on the new tab without any distractions and show it big and loud everytime you open a new tab. So that you don't miss it at all! 
+> A Chrome extension that lets you do only one thing. i.e. To jot down one thing on the new tab without any distractions and show it big and loud everytime you open a new tab. So that you don't miss it at all!
+
+[Install via Chrome Web Store](https://chrome.google.com/webstore/detail/sole/khjjimnnahfgccomaamgpihlkcjbnojo)
 
 ![](/assets/screenshot-2.png)
 
